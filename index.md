@@ -16,6 +16,8 @@ A list with your favorite conference talks broken up by topics! Feel free to ope
 - [Imaging at a trillion frames per second](https://www.youtube.com/watch?v=Y_9vd4HWlVA) by Ramesh Raskar
 - [The danger of AI is weirder than you think](https://www.youtube.com/watch?v=OhCzX0iLnOc) by Janelle Shane
 - [How a handful of tech companies control billions of minds every day](https://www.youtube.com/watch?v=C74amJRp730) by Tristan Harris
+- [Data Visualizations](https://www.youtube.com/watch?v=S1PDU2Ckt5w) by Shirley Wu
+- [The Past, Present, and Future of CSS](https://www.youtube.com/watch?v=xlCYisIGnPE) by Una Kravets 
 
 ## Design
 
@@ -32,3 +34,8 @@ A list with your favorite conference talks broken up by topics! Feel free to ope
 - [What do top students do differently?](https://www.youtube.com/watch?v=Na8m4GPqA30) by Douglas Barton
 - [The 3 Myths of the Indian Education System](https://www.youtube.com/watch?v=9Q7Zl3OI4us) by Vinay Menon
 - [Teaching Methods for Inspiring the Students of the Future](https://www.youtube.com/watch?v=UCFg9bcW7Bk) by Joe Ruhl
+
+## Life-Hacks
+
+- [Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU&ab_channel=TED) by Tim Urban
+- [How to speak so that people want to listen ](https://www.youtube.com/watch?v=eIho2S0ZahI&ab_channel=TED) by Julian Treasure
